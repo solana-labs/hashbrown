@@ -19,7 +19,7 @@
         test,
         core_intrinsics,
         dropck_eyepatch,
-        cfg_doctest,
+        // cfg_doctest,
     )
 )]
 #![warn(missing_docs)]
