@@ -37,6 +37,7 @@ serde_test = "1.0"
 doc-comment = "0.3.1"
 
 [features]
+default = ["inline-more"]
 # default = ["ahash"]
 nightly = []
 rustc-internal-api = []
